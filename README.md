@@ -1,5 +1,6 @@
 
 display ping instead of "Voice Connected" message
+
 ![pingping](https://github.com/user-attachments/assets/042f5b48-3001-43c8-8fc6-0c347736b71c)
 
 <!-->
